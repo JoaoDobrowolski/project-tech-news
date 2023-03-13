@@ -48,7 +48,7 @@ def scrape_news(html_content):
     summary = selector.css(".entry-content > p:first-of-type *::text").getall()
     summary = (''.join(summary)).strip()
     category = selector.css(".category-style .label::text").get()
-    
+
     news = {
         'url': url,
         'title': title,
