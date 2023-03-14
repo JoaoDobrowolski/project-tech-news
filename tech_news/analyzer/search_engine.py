@@ -18,14 +18,15 @@ def search_by_title(title):
 def search_by_date(date):
     # https://stackoverflow.com/questions/48750212/how-can-i-check-if-a-date-field-is-in-iso-format
     try:
-        date_list = []
         date_correct_format = datetime.fromisoformat(date).strftime("%d/%m/%Y")
         query = {"timestamp": date_correct_format}
-        search = [(index['title'], index['url']) for index in db.news.find(query)]
+        search = [(index['title'], index['url'])
+                  for index in db.news.find(query)]
         # print(">>>>>>>>", search)
         return search
     except ValueError:
         raise ValueError("Data inválida")
+
 
 # Requisito 9
 def search_by_category(category):
