@@ -10,11 +10,11 @@ As notícias podem ser obtidas através da raspagem do blog da Trybe.
 O projeto foi realizado com o intuito de desenvolver e aperfeiçoar as habilidades em Python, mais especificamente raspagem de dados. Algumas das habilidades trabalhadas:
 
 <ul>
-<li>Utilização do terminal interativo do Python</li>
-<li>Escrita de seus próprios módulos e importação em outros códigos</li>
-<li>Aplicação de técnicas de raspagem de dados</li>
-<li>Extração de dados de conteúdo HTML</li>
-<li>Armazenagem dos dados obtidos em um banco de dados</li>
+<li>Utilização do terminal interativo do Python;</li>
+<li>Escrita de seus próprios módulos e importação em outros códigos;</li>
+<li>Aplicação de técnicas de raspagem de dados;</li>
+<li>Extração de dados de conteúdo HTML;</li>
+<li>Armazenagem dos dados obtidos em um banco de dados.</li>
 </ul>
 
 -----
