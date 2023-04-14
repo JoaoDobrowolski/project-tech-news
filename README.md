@@ -1,6 +1,6 @@
 # Tech News
 
-Este projeto em Python foi desenvolvido com o objetivo de fazer consultas em notícias sobre tecnologia.
+Este projeto foi desenvolvido com o objetivo de fazer consultas em notícias sobre tecnologia.
 As notícias podem ser obtidas através da raspagem do blog da Trybe.
 
 -----
