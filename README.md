@@ -1,7 +1,7 @@
 # Tech News
 
 Este projeto foi desenvolvido com o objetivo de fazer consultas em notícias sobre tecnologia.
-As notícias podem ser obtidas através da raspagem do blog da Trybe.
+As notícias podem ser obtidas através da raspagem do <a href="https://blog.betrybe.com/" target="_blank">blog da Trybe</a>.
 
 -----
 
@@ -57,4 +57,4 @@ Etapas a seguir para contribuir com o projeto:
 
 # Autor
 
-O projeto Tech News foi desenvolvido por João Felipe Dobrowolski durante o curso da Trybe.
+O projeto Tech News foi desenvolvido por João Felipe Dobrowolski durante o curso da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
